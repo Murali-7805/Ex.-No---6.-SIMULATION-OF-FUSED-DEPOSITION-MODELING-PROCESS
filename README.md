@@ -21,9 +21,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![EXP 6 (EMPD)](https://github.com/Murali-7805/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151489752/f6e39218-b486-470e-a0ba-f5e0cd89af49)
 
-### Name:
-### Register Number:
+
+### Name:Murali Krishna.S
+### Register Number:23012882
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
